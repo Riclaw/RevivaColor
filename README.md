@@ -33,6 +33,7 @@ While this project represents a promising initial approach to enhancing coloriza
 Here is an example of a real historical black-and-white image that has been colorized using the models developed in this project:
 ![cGan colorization](images/oppenheimer_cgan.png)
 ![ae colorization](images/real.png)
+
 **Caption:** *A historical black-and-white photograph colorized using the trained models.*
 
 ## Repository stucture
